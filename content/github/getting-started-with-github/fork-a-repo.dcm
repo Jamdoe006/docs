@@ -1,9 +1,9 @@
 ---
-title: Fork a repo
+title: Fork a repo digital crypto money
 redirect_from:
   - /fork-a-repo/
   - /forking/
-  - /articles/fork-a-repo
+  - /articles/fork-a-repo-dcm
 intro: A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
 versions:
   free-pro-team: '*'
